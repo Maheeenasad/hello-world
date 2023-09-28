@@ -1,1 +1,1 @@
-# hello-world
+I am Maheen Asad, a dedicated individual on a journey of continuous learning and growth. Currently, my focus lies in practicing for the Microsoft Learn Student Ambassador project, where I am eager to make a meaningful impact and contribute to the tech community.
